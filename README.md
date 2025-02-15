@@ -1,5 +1,5 @@
 # Shopify Development For React Dev
-# My Shopify Dev Journey 
+
 ## 🛠 Shopify vs. React: Key Comparisons
 
 | **Shopify (Liquid & Sections)** | **React (Components & Props)** |
